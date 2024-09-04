@@ -1,0 +1,9 @@
+body {
+  background-color: #e7e7e7;
+}
+.form-col {
+  width: 50%;
+  margin: 0 auto;
+  background-color: #ffffff;
+  border: 1px solid red;
+}
