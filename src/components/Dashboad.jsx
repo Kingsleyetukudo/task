@@ -6,7 +6,9 @@ export default function Dashboad() {
   return (
     <section>
       <div className="row">
-        <SideBar />
+        <div className="sideBar-row">
+          <SideBar />
+        </div>
         <div className="dashboard">
           <div className="dash-header">
             <h2>Dasborad</h2>
